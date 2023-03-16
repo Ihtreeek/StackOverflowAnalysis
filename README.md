@@ -29,12 +29,6 @@ Converted YearsCode,Age1stCode,YearsCodePro columns into numeric columns.
 3)Through career sites.\
 4)In data science,people come from different backgrounds so i think formal career is less important.
 5)I guess most working people are men and minority are women.
-
-## Screenshots
-
-![App Screenshot](https://drive.google.com/file/d/111hNrqOrnEdcvudjUn7ZbbAGxu3zollG/view?usp=share_link)
-
-
 ## Summary
 I have drawn many inferences from the survey. Here's a summary of a few of them:
 
